@@ -1,6 +1,6 @@
 # http-status-api
 
-A simple API for generating status code responses for development testing purposes. Ngl this was an excuse to try Go.
+Ngl this was an excuse to try Go.
 
 ## How to use
 
